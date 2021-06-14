@@ -70,12 +70,14 @@ Il existe de nombreuses façons d'installer Python, une des meilleures est d'uti
 ## Séance 1 – jeudi 17 juillet : 9h00 - 16h00
 
 Programme : Introduction et prise en main du Jupyter. 
+
 Notions: [00. Introduction à python](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/00_Introduction_%C3%A0_python.ipynb), [01. Variables et affectations](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/01_Variables_et_affectations.ipynb), [02. Chaînes de caractères](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/02_Cha%C3%AEnes_de_caract%C3%A8res.ipynb).
 
 
 ## Séance 2 – vendredi 18 juillet : 9h00 - 16h00
 
 Programme :  listes, dictionnaires, tuples et sets, boucles et comparaisons, tests.
+
 Notions: [03. Objets itérables ou conteneurs](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/03_Objets_it%C3%A9rables_ou_conteneurs.ipynb), [04. Contrôle du flux d'instructions](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/04_Contr%C3%B4le_du_flux_d_instructions.ipynb).
 
 
@@ -84,6 +86,7 @@ Notions: [03. Objets itérables ou conteneurs](https://colab.research.google.com
 ## Séance 3 – jeudi 24 juillet : 9h00 - 16h00
 
 Programme :  fonctions, modules et paquets, programmation orientée objet.
+
 Notions:[05. Fonctions, Modules et Packages](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/05_Fonctions_Modules_et_Packages.ipynb), [06. Classes et POO](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/06_Classes_et_POO.ipynb).
 
 
@@ -114,7 +117,7 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
 ## Cahiers de cours avec [nbviewer](https://nbviewer.jupyter.org/)
 
 Les cahiers peuvent être aussi consultés sous forme de page web statique avec [nbviewer](https://nbviewer.jupyter.org/). Dans cette configuration, 
-aucun code ne pourra etre exécuté. Les calepins sont lisibles [ici, avec le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/).
+aucun code ne pourra être exécuté. Les calepins sont lisibles [ici, avec le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/).
 
 
 
