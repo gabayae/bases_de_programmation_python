@@ -32,7 +32,7 @@ Nous nous concentrons uniquement sur Python 3. Ce cours, à la fois minimaliste 
 
 
 
-## [Dépôt GitHub des cahiers](https://github.com/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours).
+## [Dépôt GitHub des cahiers](https://github.com/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours)
 
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce livre n'attend de vous aucun prérequis de programmation.
@@ -42,7 +42,7 @@ Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de
 
 ## Les sujets que nous aborderons comprennent:
  
-  * Programmation et notions de base en informatique avec Python; voir le dossier [fondements](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/fondements);
+  * Programmation et notions de base en informatique avec Python; voir le dossier [cahiers_virtuels_de_cours](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/fondements);
   * Python pour le calcul scientique, voir le dossier [route-calcul_scientifique](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/route-calcul_scientifique) (... en préparation);
   * Python pour la science des données, voir le dossier [route-sciences_des_données](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/route-sciences_des_données) (... en préparation).
 
