@@ -64,19 +64,19 @@ Pour cela, utilisez l'un des services suivants.
 **ATTENTION** : Sachez que ces services fournissent des environnements temporaires : tout ce que vous faites sera supprimé au bout d'un moment, alors assurez-vous de télécharger toutes les données auxquelles vous tenez.
 
 * **Recommandé** : ouvrir ce dépôt en [Colaboratory](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/):
-<a href="https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/Index.ipynb"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
+<a href="https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
 
-* ou l'ouvrir dans [Binder](https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master):
-<a href="https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a> . 
+* ou l'ouvrir dans [Binder](https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD):
+<a href="https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a> . 
 
-* ou encore en cliquant 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ai-technipreneurs/programmation-python-pratique/master)
-
+* ou encore en cliquant 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD)
+ 
 
 
 ####  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code
 
-Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/)
-<a href="https://nbviewer.jupyter.org/github/ai-technipreneurs/programmation-python-pratique-nbviewer/tree/main/
+Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/)
+<a href="https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/
 "><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
 
 
