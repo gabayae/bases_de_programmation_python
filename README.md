@@ -93,7 +93,7 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
  * [00. Introduction à python](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/00_Introduction_%C3%A0_python.ipynb)
  * [01. Variables et affectations](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/01_Variables_et_affectations.ipynb)
  * [02. Chaînes de caractères](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/02_Cha%C3%AEnes_de_caract%C3%A8res.ipynb)
- * [3. Chaînes de caractères](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/3_Cha%C3%AEnes_de_caract%C3%A8res.ipynb) 
+ * [03. Objets itérables ou conteneurs](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/03_Objets_it%C3%A9rables_ou_conteneurs.ipynb) 
  * [4. Objets itérables ou conteneurs](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/4_Objets-it%C3%A9rables-ou-conteneurs.ipynb)
  * [5. Les boucles](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/5_Les-boucles.ipynb)
  * [6. Fonctions et Modules](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/6_Fonctions-et-Modules.ipynb)
