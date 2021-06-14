@@ -57,7 +57,7 @@ Il y'a deux versions de Python, la 2 et la 3. La 2 n'est plus maintenue depuis 2
 
 ## Installation
 
-Pour cette formation, vous ne serez pas contraint d'intaller Python directement sur votre oridnateur car avec **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**, vous pouvez exécuter les lignes de code dans le *cloud*. Pour ceux qui voudront travailler hors-connection, une installation est cependant nécessaire. Pour installer Python localement, la distribution Anaconda est recommandée, ainsi que l'environnement Jupyter : https://www.anaconda.com/distribution/.
+Pour ceux qui voudront travailler hors-connection, une installation est cependant nécessaire. Pour installer Python localement, la distribution Anaconda est recommandée, ainsi que l'environnement Jupyter : https://www.anaconda.com/distribution/.
 
 #### OS X
 
