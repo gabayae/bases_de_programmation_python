@@ -6,6 +6,7 @@
 
 *Tous les contenus originaux sont sous licence CC BY-NC-SA 4.0, les ressources extérieures (comme bootstrap) sont sous leur licence respective [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
 
+ 2222222
 
 *Auteur: Yaé Ulrich Gaba, yaeulrich.gaba@gmail.com*
 
