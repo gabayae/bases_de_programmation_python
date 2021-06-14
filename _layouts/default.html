@@ -22,9 +22,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
+        <!--{% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+        {% endif %}-->
 
        <!-- {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -47,7 +47,8 @@
         {% if site.github.is_project_page %}
         <p>Ce projet est maintenu par <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hébergé  GitHub Pages &mdash; Thème par <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hébergé  sur GitHub Pages </p> 
+          <!--&mdash; Thème par <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
