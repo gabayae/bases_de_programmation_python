@@ -89,7 +89,7 @@ Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](h
 Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des cahiers/calepins Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. [Accédez au sommaire](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/Index.ipynb).
 Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab.
 
- * [Sommaire](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/Index.ipynb)
+ * [Sommaire](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/Index.ipynb)
  * [00. Introduction à python](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/00_Introduction_%C3%A0_python.ipynb)
  * [01. Variables et affectations](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/01_Variables_et_affectations.ipynb)
  * [02. Chaînes de caractères](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/02_Cha%C3%AEnes_de_caract%C3%A8res.ipynb)
