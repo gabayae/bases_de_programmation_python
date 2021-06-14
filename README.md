@@ -96,7 +96,7 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
  * [03. Objets itérables ou conteneurs](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/03_Objets_it%C3%A9rables_ou_conteneurs.ipynb) 
  * [04. Contrôle du flux d'instructions](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/04_Contr%C3%B4le_du_flux_d_instructions.ipynb)
  * [05. Fonctions, Modules et Packages](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/05_Fonctions_Modules_et_Packages.ipynb)
- * [6. Fonctions et Modules](https://colab.research.google.com/github/ai-technipreneurs/programmation-python-pratique/blob/master/6_Fonctions-et-Modules.ipynb)
+ * [06. Classes et POO](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/06_Classes_et_POO.ipynb)
 
 
 
