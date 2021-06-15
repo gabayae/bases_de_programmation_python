@@ -46,7 +46,7 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
 À titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d’avancement de l’ensemble de la classe. N’hésitez pas à revenir régulièrement sur cette page pendant la formation.
  
  
-## Ressources
+### Ressources
 
 Votre permier ami sera certainement [les cinq premières sections du tutoriel officiel de Python](https://docs.python.org/fr/3/tutorial/).
  
@@ -71,7 +71,7 @@ Si vous êtes un codeur débutant, vous pouvez consulter [ces ressources d'appre
 
  
 
-## Cahiers virtuels de cours
+### Cahiers virtuels de cours
  
  Vous trouverez les cahiers virtuels pour ce cours sur [ce dépôt GitHub](https://github.com/gabayae/bases_de_programmation_python-cahiers-virtuels-de-cours).
 
@@ -81,12 +81,48 @@ Le langage de programmation Python est souvent utilisé dans les domaines scient
 Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de script le plus utilisé au monde car on peut quasiment tout faire avec: programmation web, statistiques, machine learning, gestion de bases de données. La communauté de Python est la plus grande dans le monde de la programmation: si vous voulez quelque chose, quelqu'un l'a sûrement déjà fait.
 
 
-## Les sujets que nous aborderons comprennent:
+### Les sujets que nous aborderons comprennent:
  
   * Programmation et notions de base en informatique avec Python; voir le dossier [cahiers_virtuels_de_cours](https://github.com/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours);
   * Python pour le calcul scientique, voir le dossier [route-calcul_scientifique](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/route-calcul_scientifique) (... en préparation);
   * Python pour la science des données, voir le dossier [route-sciences_des_données](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/route-sciences_des_données) (... en préparation).
 
+ 
+### Séance 1 – jeudi 17 juillet : 9h00 - 16h00
+
+Programme : Introduction et prise en main du Jupyter. 
+
+Notions: [00. Introduction à python](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/00_Introduction_%C3%A0_python.ipynb), [01. Variables et affectations](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/01_Variables_et_affectations.ipynb), [02. Chaînes de caractères](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/02_Cha%C3%AEnes_de_caract%C3%A8res.ipynb).
+ 
+ En complément du chapitre de présentation des bases du langage Python, vous pourrez également consulter avec profit les [cinq premières sections du tutoriel officiel de Python](https://docs.python.org/fr/3/tutorial/).
+
+
+
+
+### Séance 2 – vendredi 18 juillet : 9h00 - 16h00
+
+Programme :  listes, dictionnaires, tuples et sets, boucles et comparaisons, tests.
+
+Notions: [03. Objets itérables ou conteneurs](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/03_Objets_it%C3%A9rables_ou_conteneurs.ipynb), [04. Contrôle du flux d'instructions](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/04_Contr%C3%B4le_du_flux_d_instructions.ipynb).
+
+
+
+
+### Séance 3 – jeudi 24 juillet : 9h00 - 16h00
+
+Programme :  fonctions, modules et paquets, programmation orientée objet.
+
+Notions: [05. Fonctions, Modules et Packages](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/05_Fonctions_Modules_et_Packages.ipynb), [06. Classes et POO](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/06_Classes_et_POO.ipynb).
+
+
+## Évaluations
+ 
+ 
+ 
+ 
+ 
+ ***********
+ 
 ## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
 
 ## Python X ?
@@ -118,34 +154,6 @@ Pour ce qui est des systèmes Linux, Python est généralement déjà installé 
 
  
 
-***********
-
-
-## Séance 1 – jeudi 17 juillet : 9h00 - 16h00
-
-Programme : Introduction et prise en main du Jupyter. 
-
-Notions: [00. Introduction à python](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/00_Introduction_%C3%A0_python.ipynb), [01. Variables et affectations](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/01_Variables_et_affectations.ipynb), [02. Chaînes de caractères](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/02_Cha%C3%AEnes_de_caract%C3%A8res.ipynb).
- 
- En complément du chapitre de présentation des bases du langage Python, vous pourrez également consulter avec profit les [cinq premières sections du tutoriel officiel de Python](https://docs.python.org/fr/3/tutorial/).
-
-
-
-
-## Séance 2 – vendredi 18 juillet : 9h00 - 16h00
-
-Programme :  listes, dictionnaires, tuples et sets, boucles et comparaisons, tests.
-
-Notions: [03. Objets itérables ou conteneurs](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/03_Objets_it%C3%A9rables_ou_conteneurs.ipynb), [04. Contrôle du flux d'instructions](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/04_Contr%C3%B4le_du_flux_d_instructions.ipynb).
-
-
-
-
-## Séance 3 – jeudi 24 juillet : 9h00 - 16h00
-
-Programme :  fonctions, modules et paquets, programmation orientée objet.
-
-Notions:[05. Fonctions, Modules et Packages](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/05_Fonctions_Modules_et_Packages.ipynb), [06. Classes et POO](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/06_Classes_et_POO.ipynb).
 
 
 
