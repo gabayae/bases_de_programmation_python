@@ -70,7 +70,7 @@ Cependant, vous pouvez emprunter une autre route, qui elle, se decompose en deux
 2- Installer [Jupyter](https://jupyter.org/install.html).
 
 Pour installer Python, il suffit de télécharger la version 3 qui correspond à votre système d’exploitation (Windows ou Mac). 
-Pour ce qui est des systèmes Linux, Python est généralement déjà installé par défaut. Il vous suffit d'ajouter [Jupyter](https://jupyter.org/install.html).. Pour ce qui est de Jupyter, faites reference aux liens:
+Pour ce qui est des systèmes Linux, Python est généralement déjà installé par défaut. Il vous suffit d'ajouter [Jupyter](https://jupyter.org/install.html). Pour ce qui est de Jupyter, faites reference aux liens:
  
          - http://jupyter.org/install.html
          - http://jupyter.readthedocs.io/en/latest/install.html.
