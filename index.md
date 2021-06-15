@@ -32,7 +32,9 @@ Nous nous concentrons uniquement sur Python 3. Ce cours, à la fois minimaliste 
 
 
 
-## [Dépôt GitHub des cahiers](https://github.com/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours)
+## Cahiers virtuels de cours
+ 
+ Vous trouverez les cahiers virtuels pour ce cours sur [ce dépôt GitHub](https://github.com/gabayae/bases_de_programmation_python-cahiers-virtuels-de-cours).
 
 
 Le langage de programmation Python est souvent utilisé dans les domaines scientifiques aujourd'hui. C’est un langage de programmation relativement accessible et adapté aux universitaires. Dans ce cahier virtuel d'exercices, nous vous présenterons le langage et apprendrons les basiques liés à l'algorithmique. Ce cours n'attend de vous aucun prérequis de programmation.
@@ -113,7 +115,24 @@ Notions:[05. Fonctions, Modules et Packages](https://colab.research.google.com/g
 
 ***********
 
-## Cahiers de cours dans [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
+# Démarrage rapide, je voudrais un avant-goût. Pour cela, vous avez deux options: 
+ 
+
+### Option 1: je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit
+
+Pour cela, utilisez l'un des services suivants.
+
+**ATTENTION** : Sachez que ces services fournissent des environnements temporaires : tout ce que vous faites sera supprimé au bout d'un moment, alors assurez-vous de télécharger toutes les données auxquelles vous tenez.
+
+* **Recommandé** : ouvrir ce dépôt en [Colaboratory](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/):
+<a href="https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
+
+* ou l'ouvrir dans [Binder](https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD):
+<a href="https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a> . 
+
+* ou encore en cliquant 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD) 
+ 
+##### Cahiers de cours dans [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 Chaque chapitre, entièrement contenu dans un **notebook iPython (Jupyter)**, est directement accessible sur la plateforme **[Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb)**. Google Colab est une plateforme cloud entièrement gratuite, donnant un accès direct et facile à un une interface de programmation en Python (via des cahiers/calepins Jupyter) déjà correctement pré-configurée, et disposant de nombreuses librairies pré-installées. [Accédez au sommaire](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/Index.ipynb).
 Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab.
@@ -129,47 +148,25 @@ Ci-dessous, vous pouvez aller directement aux cahiers de cours dans Google Colab
 
 
 
-## Cahiers de cours avec [nbviewer](https://nbviewer.jupyter.org/)
+##### Cahiers de cours avec [nbviewer](https://nbviewer.jupyter.org/)
 
 Les cahiers peuvent être aussi consultés sous forme de page web statique avec [nbviewer](https://nbviewer.jupyter.org/). Dans cette configuration, 
 aucun code ne pourra être exécuté. Les calepins sont lisibles [ici, avec le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/).
 
 
-
-
-
-
-
-
-### Démarrage rapide, je voudrais un avant-goût
-Pour cela, vous avez deux options:
-
-#### Option 1: je veux juste jouer avec ces carnets en ligne sans avoir à installer quoi que ce soit
-
-Pour cela, utilisez l'un des services suivants.
-
-**ATTENTION** : Sachez que ces services fournissent des environnements temporaires : tout ce que vous faites sera supprimé au bout d'un moment, alors assurez-vous de télécharger toutes les données auxquelles vous tenez.
-
-* **Recommandé** : ouvrir ce dépôt en [Colaboratory](https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/):
-<a href="https://colab.research.google.com/github/gabayae/bases_de_programmation_python-colab/blob/main/"><img src="https://colab.research.google.com/img/colab_favicon.ico" width="90" /></a>
-
-* ou l'ouvrir dans [Binder](https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD):
-<a href="https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD"><img src="https://matthiasbussonnier.com/posts/img/binder_logo_128x128.png" width="90" /></a> . 
-
-* ou encore en cliquant 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours/HEAD)
- 
-
-
-####  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code
+###  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code
 
 Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/)
 <a href="https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/
 "><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
 
 
+
+
+
 ## Sur place ou à emporter ?
 
-### 👉 [Vous pouvez aussi télécharger tous les cahiers de cours](https://github.com/gabayae/bases_de_programmation_python/tree/master/cahiers_virtuels_de_cours).
+### 👉 [Vous pouvez aussi télécharger tous les cahiers de cours](https://github.com/gabayae/bases_de_programmation_python-cahiers-virtuels-de-cours).
 
 
 
