@@ -9,8 +9,8 @@ layout: default
 
 
  
- Bienvenue au cours d'introduction à python. Vous trouverez sur ce site toutes les informations et ressources nécessaires.
-
+Bienvenue au cours d'introduction à python. Vous trouverez sur ce site toutes les informations et ressources nécessaires.
+*****
 
 
 Ce cours vise à vous enseigner les bases de développement de logiciels professionnels dans le contexte de la science.
@@ -47,6 +47,9 @@ Les enseignements seront donnés sous forme de cours / TP, quelques minutes de t
  
  
 ## Ressources
+
+Votre permier ami sera certainement [les cinq premières sections du tutoriel officiel de Python](https://docs.python.org/fr/3/tutorial/).
+ 
 D'incroyables ressources peuvent également être trouvées à:
 
 * [Au coeur de Python](https://www.amazon.com/Au-coeur-Python-Notions-fondamentales/dp/2744021482);
