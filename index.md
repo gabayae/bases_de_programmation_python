@@ -2,14 +2,13 @@
 layout: default
 ---
 
-
-
-## <a href="http://imsp-benin.com/" ><img src="http://imsp-benin.com/home/images/logoimsp.png" style="float:left; max-width: 80px; display: inline" alt="IMSP"/> |  [*Institut de Mathématiques et Sciences Physiques*](http://imsp-benin.com/home/page.php?index=directeur&parent=presentation)
+### <a href="http://imsp-benin.com/" ><img src="http://imsp-benin.com/home/images/logoimsp.png" style="float:left; max-width: 80px; display: inline" alt="IMSP"/> |  [*Institut de Mathématiques et Sciences Physiques*](http://imsp-benin.com/home/page.php?index=directeur&parent=presentation)
 
 
 
  
 Bienvenue au cours d'introduction à python. Vous trouverez sur ce site toutes les informations et ressources nécessaires.
+ 
 *****
 
 
