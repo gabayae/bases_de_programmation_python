@@ -87,7 +87,7 @@ Les avantages de Python sont nombreux. D'une part c'est sans doute le langage de
   * Python pour la science des données, voir le dossier [route-sciences_des_données](https://github.com/gabayae/python-pour-le-cs-et-la-sd/tree/master/route-sciences_des_données) (... en préparation).
 
  
-### Séance 1 – jeudi 17 juillet : 9h00 - 16h00
+### Séance 1 – jeudi 17 juillet : 9h00 - 16h00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
 
 Programme : Introduction et prise en main du Jupyter. 
 
@@ -98,7 +98,7 @@ Notions: [00. Introduction à python](https://colab.research.google.com/github/g
 
 
 
-### Séance 2 – vendredi 18 juillet : 9h00 - 16h00
+### Séance 2 – vendredi 18 juillet : 9h00 - 16h00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
 
 Programme :  listes, dictionnaires, tuples et sets, boucles et comparaisons, tests.
 
@@ -107,7 +107,7 @@ Notions: [03. Objets itérables ou conteneurs](https://colab.research.google.com
 
 
 
-### Séance 3 – jeudi 24 juillet : 9h00 - 16h00
+### Séance 3 – jeudi 24 juillet : 9h00 - 16h00 [HNEC](https://fr.wikipedia.org/wiki/Heure_normale_d%27Europe_centrale).
 
 Programme :  fonctions, modules et paquets, programmation orientée objet.
 
