@@ -18,7 +18,7 @@ en fonction de votre formation!), mais peut également être utilisé pour l'aut
 Nous nous concentrons uniquement sur Python 3. Ce cours, à la fois minimaliste et pratique, vous permettra de découvrir rapidement les concepts essentiels de la programmation en **Python**. Il faut dire que ça vaut la peine de s'intéresser à Python, c'est un langage qui sera forcément présent dans l'écosystème informatique des années à venir. 
 
 
-*Pour ce cours, des discussions LIVE! peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions, même quand le cours sera terminé.* Pour ce faire, vous aurez besoin d'un compte [GitHub](https://github.com/).
+*Pour ce cours, des discussions LIVE! peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions, même quand le cours sera terminé. Pour ce faire, vous aurez besoin d'un compte [GitHub](https://github.com/).*
 
 
 ## Synopsis
