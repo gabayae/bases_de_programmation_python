@@ -156,7 +156,7 @@ aucun code ne pourra être exécuté. Les calepins sont lisibles [ici, avec le v
 
 ###  Option 2: je veux juste regarder rapidement quelques carnets, sans exécuter de code
 
-Parcourir ce dépot en utilisant [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/)
+Parcourir cela, utilisez [le visualiseur de bloc-notes de jupyter.org](https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/)
 <a href="https://nbviewer.jupyter.org/github/gabayae/bases_de_programmation_python-nbviewer/tree/main/
 "><img src="https://jupyter.org/assets/nav_logo.svg" width="150" /></a>
 
