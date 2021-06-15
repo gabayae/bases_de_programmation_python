@@ -8,6 +8,8 @@ layout: default
 
 
 
+ 
+ Bienvenue au cours d'introduction à python. Vous trouverez sur ce site toutes les informations et ressources nécessaires.
 
 
 
@@ -20,6 +22,51 @@ Nous nous concentrons uniquement sur Python 3. Ce cours, à la fois minimaliste 
 *Pour ce cours, des discussions LIVE! peuvent se faire sur [![Gitter](https://badges.gitter.im/ai-technipreneurs/programmation-python-pratique.svg)](https://gitter.im/ai-technipreneurs/programmation-python-pratique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge). Vous pourrez toujours joindre la discussion et y poser vos questions, même quand le cours sera terminé.*
 
 
+## Synopsis
+
+Dans ce cours, nous allons voir les bases du langage Python. Au-delà de l’apprentissage de la syntaxe du langage Python, nous aborderons quelques bases d’algorithmie, c’est-à-dire comment transformer un problème énoncé en français, en une suite d’instructions informatiques.
+
+L’apprentissage de la programmation est un processus nécessitant un certain investissement. Ainsi, nous vous conseillons de faire un maximum d’exercices sur une base régulière afin d’acquérir certains automatismes.
+
+ À la fin du cours, vous devriez être capable d’écrire des scripts et des notebooks Jupyter:
+
+    * Identifier les usages courants du langage
+    * Mettre en pratique le scripting en Python
+    * Structurer votre code en fonction, classes et modules
+    * Utiliser des modules existants
+    * Expérimenter la programmation objet en Python.
+
+En outre, vous apprendrez également à utiliser des modules incontournables en analyse de données (pandas, numpy, matplotlib).
+ 
+ 
+## Organisation des cours
+
+Les enseignements seront donnés sous forme de cours / TP, quelques minutes de théorie en *live coding* seront suivies d’une mise en pratique immédiate.
+
+À titre indicatif, nous détaillons dans la suite le découpage des différentes séances. Ce découpage est succeptible de changer en fonction du degré d’avancement de l’ensemble de la classe. N’hésitez pas à revenir régulièrement sur cette page pendant la formation.
+ 
+ 
+## Ressources
+D'incroyables ressources peuvent également être trouvées à:
+
+* [Au coeur de Python](https://www.amazon.com/Au-coeur-Python-Notions-fondamentales/dp/2744021482);
+
+* [Programmation python](https://www.eyrolles.com/Informatique/Livre/programmation-python-9782212124835/);
+
+* [Dive into Python](http://www.diveintopython.net/toc/index.html);
+
+* [Software Carpentry's Python Lectures](http://software-carpentry.org/4_0/python/);
+
+* [IPython: A System for Interactive Scientific Computing](http://dx.doi.org/10.1109/MCSE.2007.53);
+
+* [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkpython.html).
+
+
+
+Si vous êtes un codeur débutant, vous pouvez consulter [ces ressources d'apprentissage "Python pour les non-programmeurs"](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers). Elles sont en Anglais.
+
+
+ 
 
 ## Cahiers virtuels de cours
  
@@ -55,7 +102,9 @@ Pour installer Python localement, la distribution Anaconda est recommandée, ain
 Il existe de nombreuses façons d'installer Python, une des meilleures est d'utiliser le package Anaconda.  Nous vous conseillons donc d'installer la distribution Anaconda. Elle contient tous les modules et packages nécessaires pour ce cours. Elle est disponible pour toutes les plateformes et possède une procédure d'installation assez simple. Vous pouvez la télécharger depuis [Continuum](http://continuum.io/downloads).  Des détails pour l'installation peuvent être trouvés [ici](http://docs.continuum.io/anaconda/install.html). 
 
 Cependant, vous pouvez emprunter une autre route, qui elle, se decompose en deux étapes:
+ 
 1- Installer [Python](https://www.python.org/);
+ 
 2- Installer [Jupyter](https://jupyter.org/install.html).
 
 Pour installer Python, il suffit de télécharger la version 3 qui correspond à votre système d’exploitation (Windows ou Mac). 
