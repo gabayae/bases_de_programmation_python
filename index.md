@@ -125,40 +125,49 @@ En dehors de l'examen sur table que vous ferez, 40% de votre note finale provien
 Par ordre décroissant de priorité:
 
 #### Les thèmes d'exposés de priorité 0.
-- Etude des expressions régulières 
-- Les modules et méthodes de gestion de fichiers sous Python 
-- Gestion des erreurs et des exceptions 
+ ```
+   - Etude des expressions régulières 
+   - Les modules et méthodes de gestion de fichiers sous Python 
+   - Gestion des erreurs et des exceptions
+ ```
 
 
 #### Les thèmes d'exposés de priorité 1.
-- Introduction à `Numpy` 
-- Introduction à `Matplotlib` 
 
+   - Introduction à `Numpy` 
+   - Introduction à `Matplotlib` 
+ 
 #### Les thèmes d'exposés de priorité 2.
-- Introduction à `Pandas`
-- Introduction à `Seaborn` 
-- Introduction à `Scikit-Learn` 
+ 
+  - Introduction à `Pandas`
+  - Introduction à `Seaborn` 
+  - Introduction à `Scikit-Learn` 
 
 
 #### Les thèmes d'exposés de priorité 3.
-- Les Tests en Python 
-- Le contrôle de version avec `Git`
+ ```
+  - Les Tests en Python 
+  - Le contrôle de version avec `Git`
+ ```
 
 #### Les thèmes d'exposés de priorité 4.
-- Introduction à `SciPy`
-- Introduction à `Sympy`
+ 
+  - Introduction à `SciPy`
+  - Introduction à `Sympy`
 
 
 
 #### Les thèmes d'exposés de priorité 5.
-- Le module `URLLIB` 
-- Le module `BeautifulSoup`
-- Le module `NLTK` 
-- Application web avec `Django`
+ 
+  - Le module `URLLIB` 
+  - Le module `BeautifulSoup`
+  - Le module `NLTK` 
+  - Application web avec `Django`
 
 
 #### Optionnel
-- Un tour de `Markdown` dans un calepin Jupyter
+ 
+  - Un tour de `Markdown` dans un calepin Jupyter
 
  
 Les ressources données ci-dessus peuvent être de très bonnes ressources et fournissent certainement de la docmentation nécessaire dans votre investigation sur les thèmes ci-dessus proposés. 
