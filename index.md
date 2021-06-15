@@ -7,7 +7,7 @@ layout: default
 
 
  
-Bienvenue au cours d'introduction à python. Vous trouverez sur ce site toutes les informations et ressources nécessaires.
+Bienvenu(e) au cours d'introduction à python. Vous trouverez sur ce site toutes les informations et ressources nécessaires.
  
 *****
 
