@@ -158,17 +158,16 @@ Parcourir cela, utilisez [le visualiseur de bloc-notes de jupyter.org](https://n
 ### 👉 [Vous pouvez aussi télécharger tous les cahiers de cours](https://github.com/gabayae/bases_de_programmation_python-cahiers-virtuels-de-cours).
  
  
+
+
+ *Tous les contenus originaux sont sous licence CC BY-NC-SA 4.0, les ressources extérieures (comme bootstrap) sont sous leur licence respective [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
+
  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
-
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/welcome.ipynb?hl=fr)
 
 
-*Tous les contenus originaux sont sous licence CC BY-NC-SA 4.0, les ressources extérieures (comme bootstrap) sont sous leur licence respective [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
-
-
-*Auteur: Yaé Ulrich Gaba, yaeulrich.gaba@gmail.com*
+*Instructeur: [Yaé Ulrich Gaba](https://github.com/gabayae), yaeulrich.gaba@gmail.com*
 
  
 
