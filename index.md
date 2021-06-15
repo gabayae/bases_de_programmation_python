@@ -117,11 +117,58 @@ Notions: [05. Fonctions, Modules et Packages](https://colab.research.google.com/
 
 ## Évaluations
  
+En dehors de l'examen sur table que vous ferez, 40% de votre note finale proviendra des séances de TD/TP, d'une courte présentation (thèmes d'exposé) sur l'un des sujets ci-dessous et d'un petit projet de groupe. 
+ 
+
+
+### Une liste de thèmes d'exposé est donnée en-dessous et vous êtes appelé à en choisir au moins un que vous présenterez: 
+
+Par ordre décroissant de priorité:
+
+#### Les thèmes d'exposés de priorité 0.
+- Etude des expressions régulières 
+- Les modules et méthodes de gestion de fichiers sous Python 
+- Gestion des erreurs et des exceptions 
+
+
+#### Les thèmes d'exposés de priorité 1.
+- Introduction à `Numpy` 
+- Introduction à `Matplotlib` 
+
+#### Les thèmes d'exposés de priorité 2.
+- Introduction à `Pandas`
+- Introduction à `Seaborn` 
+- Introduction à `Scikit-Learn` 
+
+
+#### Les thèmes d'exposés de priorité 3.
+- Les Tests en Python 
+- Le contrôle de version avec `Git`
+
+#### Les thèmes d'exposés de priorité 4.
+- Introduction à `SciPy`
+- Introduction à `Sympy`
+
+
+
+#### Les thèmes d'exposés de priorité 5.
+- Le module `URLLIB` 
+- Le module `BeautifulSoup`
+- Le module `NLTK` 
+- Application web avec `Django`
+
+
+#### Optionnel
+- Un tour de `Markdown` dans un calepin Jupyter
+
+ 
+Les ressources données ci-dessus peuvent être de très bonnes ressources et fournissent certainement de la docmentation nécessaire dans votre investigation sur les thèmes ci-dessus proposés. 
  
  
  
  
- ***********
+ 
+***********
  
 ## [Python: un survol rapide](http://www.larsen-b.com/static/intro_python/)
 
